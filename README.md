@@ -10,6 +10,5 @@
 
 <br>
 <p align="center">
-  <img alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=carlotacb&&show_icons=true&&theme=dark" width="60.25%"/>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlotacb&&theme=dark" width="25%"/>
+  <img alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=carlotacb&&show_icons=true&&theme=dark" width="100%"/>
 </p>
