@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Software Engineer, Product Owner and as a professor at UPC
+- 🔭 I’m currently working as Software Engineer, Product Owner at Localboss and as a professor at UPC
 - 🌱 I’m currently learning about product deveolpment and trying to become better as a engineer day by day
 - 💬 Ask me about hackathons, trips, dance, football... I have a lot of hobbies
 - 📫 You can learn everything about me in [my website](carlotacb.dev)
