@@ -1,14 +1,34 @@
-### Hi there 👋
+## Hi there I'm Carlota Catot Bragós 👋
 
-- 🔭 I’m currently working as Software Engineer, Product Owner at Localboss and as a professor at UPC
-- 🌱 I’m currently learning about product deveolpment and trying to become better as a engineer day by day
-- 💬 Ask me about hackathons, trips, dance, football... I have a lot of hobbies
+### About me 👩🏻‍💻 ⚽️ 🎹 🛫 ⚓️
+
+My name is *Carlota* I'm 28 years old and willing to build something big
+
+- 🔭 I've worked in different type of companies and startups as Developer and Product Owner. Also organizing HackUPC since 2019.
+- 🌱 Currently learning about product deveolpment, management and startups
+- 💬 I have a lot of hobbies: I love hackathons, travel, dance, football, music...
 - 📫 You can learn everything about me in [my website](carlotacb.dev)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to organize activities and have a lot of things to do in my day
-- 📌 Location: Barcelona
+- ⚡ Fun fact: I love to organize activities and be really busy every day with a lot of tasks.
+- 📌 Location: Barcelona (can be anywhere)
 
-<br>
+<br />
+
 <p align="center">
   <img alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=carlotacb&&show_icons=true&&theme=dark" width="60%"/>
+</p>
+
+### Technologies That I Know 💻
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,django,html,java,js,md,nextjs,nodejs,py,react,ts&perline=14" />
+  </a>
+</p>
+
+### Connect with me 🤝 📱
+
+<p>
+  <a href="https://www.linkedin.com/in/carlotacb/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://www.instagram.com/charlietotb" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 </p>
