@@ -2,7 +2,7 @@
 
 ### About me 👩🏻‍💻 ⚽️ 🎹 🛫 ⚓️
 
-My name is *Carlota* I'm 28 years old and willing to build something big
+My name is *Carlota* I'm 29 years old and willing to build something big
 
 - 🔭 I've worked in different type of companies and startups as Developer and Product Owner. Also organizing HackUPC since 2019.
 - 🌱 Currently learning about product deveolpment, management and startups
