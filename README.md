@@ -5,18 +5,12 @@
 My name is *Carlota* I'm 29 years old and willing to build something big
 
 - 🔭 I've worked in different type of companies and startups as Developer and Product Owner. Also organizing HackUPC since 2019.
-- 🌱 Currently learning about product deveolpment, management and startups
+- 🌱 Currently starting a PhD
 - 💬 I have a lot of hobbies: I love hackathons, travel, dance, football, music...
 - 📫 You can learn everything about me in [my website](carlotacb.dev)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to organize activities and be really busy every day with a lot of tasks.
 - 📌 Location: Barcelona (can be anywhere)
-
-<br />
-
-<p align="center">
-  <img alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=carlotacb&&show_icons=true&&theme=dark" width="60%"/>
-</p>
 
 ### Technologies That I Know 💻
 
