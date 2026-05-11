@@ -2,10 +2,10 @@
 
 ### About me 👩🏻‍💻 ⚽️ 🎹 🛫 ⚓️
 
-My name is *Carlota* I'm 29 years old and willing to build something big
+My name is *Carlota* I'm 30 years old and willing to build something big!!
 
 - 🔭 I've worked in different type of companies and startups as Developer and Product Owner. Also organizing HackUPC since 2019.
-- 🌱 Currently starting a PhD
+- 🌱 Currently starting a PhD & also working as a MLH Coach
 - 💬 I have a lot of hobbies: I love hackathons, travel, dance, football, music...
 - 📫 You can learn everything about me in [my website](carlotacb.dev)
 - 😄 Pronouns: she/her
